@@ -1,4 +1,4 @@
-Brinacando com Python e Pygame.
+Brincando com Python e Pygame.
 
 
 https://elieber-fernandes.github.io/Game/
