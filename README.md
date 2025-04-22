@@ -74,7 +74,7 @@ Um jogo de nave espacial feito em Python com Pygame, onde você controla uma nav
 
 ## Créditos
 
-- **Desenvolvimento:** [Seu Nome]
+- **Desenvolvimento:** [Elieber Fernandes Martins]
 - **Imagens e sons:** Recursos próprios ou de domínio público.
 - **Ranking:** Firebase Realtime Database
 
