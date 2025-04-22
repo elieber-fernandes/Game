@@ -1,4 +1,4 @@
 Brincando com Python e Pygame.
 
 
-https://elieber-fernandes.github.io/Game/
+https://elieber.itch.io/spacejourney
